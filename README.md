@@ -22,8 +22,8 @@ I'm a seasoned IT Operations Leader, Cybersecurity Manager, and Atlassian Admini
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/georgecanapi/)
-- 📧 georgecanapi@example.com
-- 🌐 Portfolio: [YourWebsiteHere.com](https://yourwebsitehere.com)
+- 📧 george.canapi@gmail.com
+- 🌐 Portfolio: https://github.com/gcanapi8?tab=projects
 
 ---
 
